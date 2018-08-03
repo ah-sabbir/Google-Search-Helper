@@ -1,0 +1,18 @@
+
+        *****************  developed by Ahmmed Sabbir*************
+name : mail tester
+version : 3.00 
+after installation python properly .............
+these packages which are must be installed for python 3.7
+1. dnspython
+2. pandas
+3. xlsxwriter
+4. re
+
+how to install a python package ?
+:) it's simple with 2 steps
+open command prompt and write " pip install <package name here>" then hit enter
+      0 0
+       ^
+      ---
+      welcome to the py's world
